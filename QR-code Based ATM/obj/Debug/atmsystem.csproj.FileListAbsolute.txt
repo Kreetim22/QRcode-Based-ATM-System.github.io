@@ -1,0 +1,154 @@
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\bin\Debug\atmsystem.exe
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\bin\Debug\atmsystem.pdb
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\bin\Debug\atmsystem.xml
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.AdminForm.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Balanceinq.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Deposit.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Login_frm.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Regs_frm.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Mainmenu.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Properties.Resources.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Receipt.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.transreceipt.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.Withdraw.resources
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.exe
+C:\Users\don\Desktop\New tutorials for csharp\atmsystem_of_bryan_drapite\atmsystem of Bryan Drapite\atmsystem\CS\obj\Debug\atmsystem.pdb
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\bin\Debug\atmsystem.exe
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\bin\Debug\atmsystem.pdb
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\bin\Debug\atmsystem.xml
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.csprojAssemblyReference.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.AdminForm.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.Balanceinq.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.Deposit.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.Login_frm.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.Regs_frm.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.Mainmenu.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.Properties.Resources.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.Receipt.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.transreceipt.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.Withdraw.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.csproj.GenerateResource.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.csproj.CoreCompileInputs.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.exe
+C:\Users\Personal-01\Desktop\Sourcecodester\atm system\obj\Debug\atmsystem.pdb
+D:\atm system\bin\Debug\atmsystem.exe
+D:\atm system\bin\Debug\atmsystem.pdb
+D:\atm system\bin\Debug\atmsystem.xml
+D:\atm system\obj\Debug\atmsystem.csproj.AssemblyReference.cache
+D:\atm system\obj\Debug\atmsystem.AdminForm.resources
+D:\atm system\obj\Debug\atmsystem.Balanceinq.resources
+D:\atm system\obj\Debug\atmsystem.Deposit.resources
+D:\atm system\obj\Debug\atmsystem.Login_frm.resources
+D:\atm system\obj\Debug\atmsystem.Regs_frm.resources
+D:\atm system\obj\Debug\atmsystem.Mainmenu.resources
+D:\atm system\obj\Debug\atmsystem.Properties.Resources.resources
+D:\atm system\obj\Debug\atmsystem.Receipt.resources
+D:\atm system\obj\Debug\atmsystem.transreceipt.resources
+D:\atm system\obj\Debug\atmsystem.Withdraw.resources
+D:\atm system\obj\Debug\atmsystem.csproj.GenerateResource.cache
+D:\atm system\obj\Debug\atmsystem.csproj.CoreCompileInputs.cache
+D:\atm system\obj\Debug\atmsystem.exe
+D:\atm system\obj\Debug\atmsystem.pdb
+D:\atmsystem\obj\Debug\atmsystem.csproj.AssemblyReference.cache
+D:\atmsystem\obj\Debug\atmsystem.AdminForm.resources
+D:\atmsystem\obj\Debug\atmsystem.Balanceinq.resources
+D:\atmsystem\obj\Debug\atmsystem.ChangePin.resources
+D:\atmsystem\obj\Debug\atmsystem.Deposit.resources
+D:\atmsystem\obj\Debug\atmsystem.Login_frm.resources
+D:\atmsystem\obj\Debug\atmsystem.Regs_frm.resources
+D:\atmsystem\obj\Debug\atmsystem.Mainmenu.resources
+D:\atmsystem\obj\Debug\atmsystem.Properties.Resources.resources
+D:\atmsystem\obj\Debug\atmsystem.Receipt.resources
+D:\atmsystem\obj\Debug\atmsystem.Withdraw.resources
+D:\atmsystem\obj\Debug\atmsystem.csproj.GenerateResource.cache
+D:\atmsystem\obj\Debug\atmsystem.csproj.CoreCompileInputs.cache
+D:\atmsystem\bin\Debug\atmsystem.exe
+D:\atmsystem\bin\Debug\atmsystem.pdb
+D:\atmsystem\bin\Debug\AForge.dll
+D:\atmsystem\bin\Debug\AForge.Video.DirectShow.dll
+D:\atmsystem\bin\Debug\AForge.Video.dll
+D:\atmsystem\bin\Debug\zxing.dll
+D:\atmsystem\bin\Debug\AForge.xml
+D:\atmsystem\bin\Debug\AForge.Video.xml
+D:\atmsystem\bin\Debug\AForge.Video.DirectShow.xml
+D:\atmsystem\bin\Debug\zxing.xml
+D:\atmsystem\obj\Debug\atmsystem.csproj.CopyComplete
+D:\atmsystem\obj\Debug\atmsystem.exe
+D:\atmsystem\obj\Debug\atmsystem.pdb
+D:\atmsystem\obj\Debug\atmsystem.pin.resources
+D:\atmsystem\obj\Debug\atmsystem.qrCode.resources
+D:\atmsystem - Copy\bin\Debug\atmsystem.exe
+D:\atmsystem - Copy\bin\Debug\AForge.dll
+D:\atmsystem - Copy\bin\Debug\AForge.Video.DirectShow.dll
+D:\atmsystem - Copy\bin\Debug\AForge.Video.dll
+D:\atmsystem - Copy\bin\Debug\zxing.dll
+D:\atmsystem - Copy\bin\Debug\AForge.xml
+D:\atmsystem - Copy\bin\Debug\AForge.Video.xml
+D:\atmsystem - Copy\bin\Debug\AForge.Video.DirectShow.xml
+D:\atmsystem - Copy\bin\Debug\zxing.xml
+D:\atmsystem - Copy\obj\Debug\atmsystem.csproj.AssemblyReference.cache
+D:\atmsystem - Copy\obj\Debug\atmsystem.AdminForm.resources
+D:\atmsystem - Copy\obj\Debug\atmsystem.Balanceinq.resources
+D:\atmsystem - Copy\obj\Debug\atmsystem.ChangePin.resources
+D:\atmsystem - Copy\obj\Debug\atmsystem.Deposit.resources
+D:\atmsystem - Copy\obj\Debug\atmsystem.Login_frm.resources
+D:\atmsystem - Copy\obj\Debug\atmsystem.Regs_frm.resources
+D:\atmsystem - Copy\obj\Debug\atmsystem.pin.resources
+D:\atmsystem - Copy\obj\Debug\atmsystem.qrCode.resources
+D:\atmsystem - Copy\obj\Debug\atmsystem.Mainmenu.resources
+D:\atmsystem - Copy\obj\Debug\atmsystem.Properties.Resources.resources
+D:\atmsystem - Copy\obj\Debug\atmsystem.Receipt.resources
+D:\atmsystem - Copy\obj\Debug\atmsystem.Withdraw.resources
+D:\atmsystem - Copy\obj\Debug\atmsystem.csproj.GenerateResource.cache
+D:\atmsystem - Copy\obj\Debug\atmsystem.csproj.CoreCompileInputs.cache
+D:\atmsystem - Copy\obj\Debug\atmsystem.csproj.CopyComplete
+D:\atmsystem - Copy\obj\Debug\atmsystem.exe
+D:\atmsystem - Copy\obj\Debug\atmsystem.pdb
+D:\atmsystem - Copy - Copy\bin\Debug\atmsystem.exe
+D:\atmsystem - Copy - Copy\bin\Debug\atmsystem.pdb
+D:\atmsystem - Copy - Copy\bin\Debug\AForge.dll
+D:\atmsystem - Copy - Copy\bin\Debug\AForge.Video.DirectShow.dll
+D:\atmsystem - Copy - Copy\bin\Debug\AForge.Video.dll
+D:\atmsystem - Copy - Copy\bin\Debug\zxing.dll
+D:\atmsystem - Copy - Copy\bin\Debug\AForge.xml
+D:\atmsystem - Copy - Copy\bin\Debug\AForge.Video.xml
+D:\atmsystem - Copy - Copy\bin\Debug\AForge.Video.DirectShow.xml
+D:\atmsystem - Copy - Copy\bin\Debug\zxing.xml
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.csproj.AssemblyReference.cache
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.AdminForm.resources
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.Balanceinq.resources
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.ChangePin.resources
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.Deposit.resources
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.Login_frm.resources
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.Regs_frm.resources
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.pin.resources
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.qrCode.resources
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.Mainmenu.resources
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.Properties.Resources.resources
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.Receipt.resources
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.Withdraw.resources
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.csproj.GenerateResource.cache
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.csproj.CoreCompileInputs.cache
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.csproj.CopyComplete
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.exe
+D:\atmsystem - Copy - Copy\obj\Debug\atmsystem.pdb
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.csproj.AssemblyReference.cache
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.AdminForm.resources
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.Balanceinq.resources
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.ChangePin.resources
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.Deposit.resources
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.Login_frm.resources
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.Regs_frm.resources
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.pin.resources
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.qrCode.resources
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.Mainmenu.resources
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.Properties.Resources.resources
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.Receipt.resources
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.Withdraw.resources
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.csproj.GenerateResource.cache
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.csproj.CoreCompileInputs.cache
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.exe
+D:\Final project\CAPSTONE-II\obj\Debug\atmsystem.pdb
